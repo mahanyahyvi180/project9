@@ -1,0 +1,7 @@
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+G:\Users\ASUS\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
